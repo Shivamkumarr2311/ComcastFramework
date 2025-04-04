@@ -11,6 +11,6 @@ public class ProductPage {
 	public WebElement getCreateProductImgBtn() {
 		return createProductImgBtn;
 	}
-	
+	 
 
 }
